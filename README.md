@@ -103,6 +103,7 @@ you must have node and either npm or yarn installed. Then run:
 ```bash
 make js
 ```
+*nb run this inside the completor.vim directory in your vim installation.
 
 The node executable path can be specified using:
 
